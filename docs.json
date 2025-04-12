@@ -16,6 +16,10 @@
           {
             "group": "О приложениях",
             "pages": ["apps/browser", "apps/overlay"]
+          },
+          {
+            "group": "Промпты",
+            "pages": ["prompts/start"]
           }
         ]
       }
