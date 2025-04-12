@@ -14,12 +14,21 @@
         "language": "ru",
         "groups": [
           {
-            "group": "О приложениях",
-            "pages": ["apps/browser", "apps/overlay"]
+            "group": "Браузерное приложение",
+            "pages": ["apps/browser"]
+          },
+          {
+            "group": "Overlay",
+            "pages": [
+              "apps/overlay",
+              "apps/overlay-security",
+              "apps/overlay-hotkeys",
+              "apps/overlay-troubleshooting"
+            ]
           },
           {
             "group": "Промпты",
-            "pages": ["prompts/start"]
+            "pages": ["prompts/start", "prompts/usage"]
           }
         ]
       }
