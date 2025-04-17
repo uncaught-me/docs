@@ -37,12 +37,12 @@
       "anchors": [
         {
           "anchor": "Новости",
-          "href": "https://t.me/uncaughtme",
+          "href": "https://t.me/sobestech",
           "icon": "newspaper"
         },
         {
           "anchor": "Поддержка",
-          "href": "https://t.me/uncaughtsupport",
+          "href": "https://t.me/sobestechsupport",
           "icon": "user"
         }
       ]
@@ -56,13 +56,13 @@
     "links": [
       {
         "label": "Обновления",
-        "href": "https://t.me/uncaughtme"
+        "href": "https://t.me/sobestech"
       }
     ]
   },
   "footer": {
     "socials": {
-      "telegram": "https://t.me/uncaughtme"
+      "telegram": "https://t.me/sobestech"
     }
   }
 }
